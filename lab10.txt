@@ -1,0 +1,17 @@
+zad 1 
+kod: https://github.com/google/emoji-scavenger-hunt
+
+działający program: https://emojiscavengerhunt.withgoogle.com/
+
+Opis:
+Jest to przeglądarkow zabawa która polega na tym że musimy pokazać wyuczonej sztuczej inteligencji przedmior o który prosi(przed kamerą). W moim przypadku była w stanie rozpoznać prawidłowo butelkę, koszulkę albo spodnie. Miała natomiast problem zinterpretować myszkę komputerową
+
+
+
+zad 2
+kod:	https://github.com/tensorflow/tfjs-models/tree/master/posenet
+
+działący program: https://experiments.withgoogle.com/collection/ai/move-mirror/view/mirror
+
+Opis:
+Jest to kreator gifów który analizując nasza postawę przed kamerą poszukuje obrazów z identyczną postawą do naszej. W bliskiej odległości do kamerki ma problem z rozpoznawaniem postawy. Z dalszej natomiast działą to całkiem sprawnie
